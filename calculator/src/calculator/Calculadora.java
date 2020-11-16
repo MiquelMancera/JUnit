@@ -16,7 +16,7 @@ public class Calculadora {
 	public static void main(String[] args) {
 		Display display = Display.getDefault();
 		Shell shell = new Shell();
-		shell.setSize(450, 300);
+		shell.setSize(246, 265);
 		shell.setText("SWT Application");
 		
 		Button btn7 = new Button(shell, SWT.NONE);
